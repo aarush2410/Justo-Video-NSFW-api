@@ -1,0 +1,10 @@
+streamlit==1.11.0
+pathlib
+pillow==9.2.0
+torch
+torchvision
+torch-summary
+tensorflow-cpu
+# opencv-python
+opencv-python-headless
+# nsfw-detector
